@@ -45,7 +45,7 @@ header nav ul li.current a {
 /* main bigin */
 
 .top{
-  background:url( ../img/top.jpg);
+  background:url(top.jpg);
   background-size: cover;
   height: 400px;
   margin-top: 0;
